@@ -1,0 +1,56 @@
+h2 {
+	text-align: center;
+}
+
+#commande {
+	text-align: center;
+}
+
+#affichage {
+	text-align: center;
+}
+
+
+#combat {
+	width: 500px;
+	height: 400px;
+	border: 5px solid grey;
+	border-radius: 50px;
+	margin: 50px auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+/*	background-color:#55db55;*/
+}
+
+#info {
+	width: 500px;
+	border: 5px solid grey;
+	border-radius: 50px;
+	margin: 50px auto;
+}
+
+#info p {
+	text-align: center;
+}
+
+#perso {
+	width: 55px;
+    height: 110px;
+/*	border: 1px solid red;*/
+	background-image: url('../img/spritmyperso.png');
+	background-size: 500px 400px;
+	background-position-y: 100px;
+	margin-top: 150px;
+}
+
+#dragon {
+	width: 127px;
+    height: 131px;
+/*    border: 1px solid red;*/
+    background-image: url(../img/dragon.png);
+    background-size: 500px 500px;
+    background-position-y: 376px;
+    background-position-x: 1px;
+    margin-bottom: 150px;
+}
